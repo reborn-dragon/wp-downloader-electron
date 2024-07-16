@@ -1,5 +1,5 @@
 {
-  "title": "WP Downloader",
+  "title": "WP Downloader - Electron",
   "url": "https://localhost",
   "domain": "localhost",
   "keywords": "Downloader, WP, Story Downloader",
@@ -11,14 +11,14 @@
 		"privacy": "Imprint & Privacy"
 	},
 	"home": {
-		"text": "Download stories for<br/> e-book readers, smartphones, desktop and more!",
+		"text": "Download Wattpad Stories for All Devices",
 		"placeholder": "Enter URL to book, part or id",
 		"submit": "Next"
 	},
 	"help": [
 		{
 			"title": "How to download a story from WP?",
-			"text": "You can open the story that you want to download and simply change the domain to your domain or <b>localhost:3000</b>. Or you copy the URL of the book and paste it into the input field on our page."
+			"text": "You can open the story that you want to download and simply copy the URL of the book and paste it into the input field on this app."
 		},
 		{
 			"title": "Which format should I choose for download?",
